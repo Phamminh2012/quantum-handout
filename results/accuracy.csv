@@ -1,0 +1,34 @@
+method,queries,rmse
+Monte Carlo,100,0.0303469
+Monte Carlo,187,0.0236216
+Monte Carlo,351,0.015118
+Monte Carlo,657,0.0110206
+Monte Carlo,1232,0.00836781
+Monte Carlo,2310,0.00584829
+Monte Carlo,4328,0.00467406
+Monte Carlo,8111,0.00331115
+Monte Carlo,15199,0.00248476
+Monte Carlo,28480,0.00178242
+Monte Carlo,53366,0.00135339
+Monte Carlo,100000,0.000834158
+AE, depth ≤ 4,900,0.00528573
+AE, depth ≤ 4,1800,0.00313755
+AE, depth ≤ 4,3600,0.00207331
+AE, depth ≤ 4,7200,0.00142487
+AE, depth ≤ 4,14400,0.00106745
+AE, depth ≤ 4,28800,0.000661737
+AE, depth ≤ 32,6650,0.000607958
+AE, depth ≤ 32,13300,0.000424179
+AE, depth ≤ 32,26600,0.000292074
+AE, depth ≤ 32,53200,0.000204064
+AE, depth ≤ 32,106400,0.00013955
+AE, depth ≤ 32,212800,0.000104652
+AE, full depth,400,0.00995299
+AE, full depth,900,0.00637639
+AE, full depth,1800,0.00304863
+AE, full depth,3500,0.00154605
+AE, full depth,6800,0.000809621
+AE, full depth,13300,0.00040378
+AE, full depth,26200,0.000202497
+AE, full depth,51900,0.000108375
+AE, full depth,103200,4.88508e-05
